@@ -43,11 +43,11 @@ author:
   name:              'key'
 
   # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
-  photo2x:           http://qwtel.com/public/img/flo@2x.jpg
+  photo:             https://github.com/aofeng2009/aofeng2009.github.io/blob/master/images/Profile-avatar.jpeg?raw=true
+  photo2x:           https://github.com/aofeng2009/aofeng2009.github.io/blob/master/images/Profile-avatar.jpeg?raw=true
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  关于:             |
     Hi, 我是key or [`@key`](https://twitter.com/kesonxie), 目前从事移动端开发工作,喜欢运动，业余时间经常打篮球，游泳。    
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
