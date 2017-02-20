@@ -13,7 +13,7 @@ url:                 http://blog.keyeed.com
 # i.e. `http://<username>.github.io`
 # baseurl:             /post
 
-title:               Key's Blog
+title:               Key's blog
 
 # Pagination
 paginate:            5
@@ -27,7 +27,7 @@ description:
   出走半生，归来仍是少年
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [technology, life]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/bg.jpg
@@ -48,7 +48,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, 我是key or [`@key`](https://twitter.com/kesonxie)， 目前从事移动端开发工作，喜欢运动，业余时间经常打篮球，游泳。    
+    Hi, 我是key or [`@key`](https://twitter.com/kesonxie)， 目前从事移动端开发工作，喜欢旅游，看NBA，打篮球，游泳。
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
