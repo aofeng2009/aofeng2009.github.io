@@ -11,7 +11,7 @@ url:                 http://blog.keyeed.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-# baseurl:             
+baseurl:             /post
 
 title:               Key's Blog
 
@@ -30,7 +30,7 @@ description:
 sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/bg.jpg
+image:               /post/public/img/bg.jpg
 color:               '#A85641'
 
 # Fonts
@@ -47,8 +47,8 @@ author:
   photo2x:           https://github.com/aofeng2009/aofeng2009.github.io/blob/master/images/Profile-avatar.jpeg?raw=true
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  关于:             |
-    Hi, 我是key or [`@key`](https://twitter.com/kesonxie), 目前从事移动端开发工作,喜欢运动，业余时间经常打篮球，游泳。    
+  about:             |
+    Hi, 我是key or [`@key`](https://twitter.com/kesonxie)， 目前从事移动端开发工作，喜欢运动，业余时间经常打篮球，游泳。    
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
