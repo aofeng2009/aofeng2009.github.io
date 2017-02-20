@@ -11,7 +11,7 @@ url:                 http://blog.keyeed.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /post
+# baseurl:             /post
 
 title:               Key's Blog
 
@@ -30,7 +30,7 @@ description:
 sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /post/public/img/bg.jpg
+image:               /public/img/bg.jpg
 color:               '#A85641'
 
 # Fonts
