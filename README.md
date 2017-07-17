@@ -1,1 +1,1 @@
-http://blog.keyeed.com
+Enjoy life
