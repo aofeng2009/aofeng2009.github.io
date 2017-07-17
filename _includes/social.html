@@ -3,11 +3,6 @@
   {% assign platform = link[0] %}
   {% assign username = link[1] %}
 
-  {% if platform == "facebook" %}
-    {% assign url = "https://facebook.com/" | append: username %}
-    {% include social-list-item.html platform=platform url=url %}
-  {% endif %}
-
   {% if platform == "instagram" %}
     {% assign url = "https://instagram.com/" | append: username %}
     {% include social-list-item.html platform=platform url=url %}
