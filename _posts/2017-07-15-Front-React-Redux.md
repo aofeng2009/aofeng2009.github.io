@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 用Redux写ReactNative
-tags: [technology]
+tags: [technology, front]
 description: >
-  本文简单的介绍了Redux的使用，转载请注明出处[链接](http://example.net/)
+  本文简单的介绍了Redux的使用，转载请注明出处[链接](http://blog.keyeed.com/2017/07/15/Front-React-Redux/)
 ---
 
 ## 目录 ##

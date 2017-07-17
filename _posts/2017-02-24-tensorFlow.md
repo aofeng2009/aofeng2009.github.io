@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tensorflow 常用函数介绍
-tags: [technology]
+tags: [technology, Machine Learning]
 description: >
   本文是笔者学习过程中的笔记。刚学，会有纰漏和误解，只供个人翻阅备忘。
 ---
