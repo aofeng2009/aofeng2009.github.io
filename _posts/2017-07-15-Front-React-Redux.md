@@ -193,4 +193,4 @@ combineReducers({
   ……
 });
 ```
-　　<font size='3'>这样项目的结构更加清晰，其他的高级用法以后再分析。研究的有些浅薄，先分享到这，欢迎随时交流。</font>
+　　<font size='3'>这样项目的结构更加清晰，其他的高级用法以后再分析。研究的有些浅薄，先分享到这，欢迎随时交流。<a href='https://github.com/aofeng2009/ReduxDemo'>Demo下载地址</a> </font>
